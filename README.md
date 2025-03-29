@@ -17,17 +17,6 @@ This is a React application that integrates with the [Reqres API](https://reqres
 
 ---
 
-## 🔗 Reqres API Endpoints Used
-
-| Functionality | Method | Endpoint |
-|---------------|--------|----------|
-| Login | POST | `/api/login` |
-| Get Users | GET | `/api/users?page=1` |
-| Update User | PUT | `/api/users/{id}` |
-| Delete User | DELETE | `/api/users/{id}` |
-
----
-
 ## 🛠️ Installation and Running the Project
 
 1. **Clone the repository**
@@ -47,6 +36,18 @@ npm run dev
 ```bash
 http://localhost:5173
 ```
+---
+
+## 🔗 Reqres API Endpoints Used
+
+| Functionality | Method | Endpoint |
+|---------------|--------|----------|
+| Login | POST | `/api/login` |
+| Get Users | GET | `/api/users?page=1` |
+| Update User | PUT | `/api/users/{id}` |
+| Delete User | DELETE | `/api/users/{id}` |
+
+
 ---
 ## 🔐 Login Credentials (provided by Reqres API)
 Use the following credentials to log in:
