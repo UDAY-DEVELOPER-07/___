@@ -79,7 +79,7 @@ src/
 
 - Reqres API is a mock API, so:
 
-- Edit & Delete operations only simulate success (no real database changes).
+    - Edit & Delete operations only simulate success (no real database changes).
 
 - Basic validation is applied on forms (login and edit).
 
